@@ -1,0 +1,13 @@
+C:\Users\turbo\source\repos\Crypto App\Crypto App\bin\Debug\Crypto App.exe.config
+C:\Users\turbo\source\repos\Crypto App\Crypto App\bin\Debug\Crypto App.exe
+C:\Users\turbo\source\repos\Crypto App\Crypto App\bin\Debug\Crypto App.pdb
+C:\Users\turbo\source\repos\Crypto App\Crypto App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\turbo\source\repos\Crypto App\Crypto App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\turbo\source\repos\Crypto App\Crypto App\obj\Debug\Crypto App.csprojResolveAssemblyReference.cache
+C:\Users\turbo\source\repos\Crypto App\Crypto App\obj\Debug\Crypto_App.Form1.resources
+C:\Users\turbo\source\repos\Crypto App\Crypto App\obj\Debug\Crypto_App.Properties.Resources.resources
+C:\Users\turbo\source\repos\Crypto App\Crypto App\obj\Debug\Crypto App.csproj.GenerateResource.Cache
+C:\Users\turbo\source\repos\Crypto App\Crypto App\obj\Debug\Crypto App.csproj.CoreCompileInputs.cache
+C:\Users\turbo\source\repos\Crypto App\Crypto App\obj\Debug\Crypto App.exe
+C:\Users\turbo\source\repos\Crypto App\Crypto App\obj\Debug\Crypto App.pdb
+C:\Users\turbo\source\repos\Crypto App\Crypto App\bin\Debug\PoloniexApi.Net.dll
